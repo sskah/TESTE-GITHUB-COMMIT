@@ -3,6 +3,7 @@
         "auth_token": "dbtoken_72hs8s8s9s9s",
         "secret_key": "db_secret_abc123xyz",
         "username": "root",
-        "password": "root1234"
+        "password": "root1234", 
+        "lero": "lero"
 
 '''       
